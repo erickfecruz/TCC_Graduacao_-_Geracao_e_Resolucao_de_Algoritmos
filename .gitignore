@@ -1,0 +1,39 @@
+# Unity generated / build artifacts (do not commit)
+MazeAlgorithm/[Ll]ibrary/
+MazeAlgorithm/[Tt]emp/
+MazeAlgorithm/[Oo]bj/
+MazeAlgorithm/[Bb]uild/
+MazeAlgorithm/[Bb]uilds/
+MazeAlgorithm/[Ll]ogs/
+MazeAlgorithm/[Uu]ser[Ss]ettings/
+MazeAlgorithm/[Mm]emoryCaptures/
+MazeAlgorithm/[Rr]ecordings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!MazeAlgorithm/[Aa]ssets/**/*.meta
+
+# Visual Studio / Rider / IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.userprefs
+*.user
+*.suo
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Burst / IL2CPP
+MazeAlgorithm/[Ll]ibrary/com.unity.burst/
+*.apk
+*.aab
+*.app
+
+# Crash / package cache resolution
+sysinfo.txt
